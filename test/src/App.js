@@ -16,6 +16,12 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          commit 2
+          commit 3
+          commit 4
+          commit 5
+          commit 6
+          commit 7
         </a>
       </header>
     </div>
