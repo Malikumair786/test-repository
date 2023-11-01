@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+<<<<<<< HEAD
           commit 2
           commit 3
           commit 4
@@ -23,6 +24,8 @@ function App() {
           commit 6
           commit 7
           commit 8
+=======
+>>>>>>> parent of 5d41673 (commit 2)
         </a>
       </header>
     </div>
